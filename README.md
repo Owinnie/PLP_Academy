@@ -15,4 +15,4 @@
 
 
 
-<small>#millionDevsForAfrica</small>
+<small>#millionDevs4Africa</small>
